@@ -69,6 +69,15 @@ ModelImporter:
   - first:
       74: 4987505354954099405
     second: Quick_Steps
+  - first:
+      74: -5591065608840260038
+    second: Idle_Cancado
+  - first:
+      74: 6258856940663324342
+    second: Final_Bicicleta
+  - first:
+      74: -2621999042310735959
+    second: Quick_Steps
   externalObjects: {}
   materials:
     materialImportMode: 2
@@ -349,7 +358,7 @@ ModelImporter:
       loopBlendPositionXZ: 1
       keepOriginalOrientation: 0
       keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 0
+      keepOriginalPositionXZ: 1
       heightFromFeet: 0
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
@@ -509,7 +518,7 @@ ModelImporter:
       takeName: Meio_Prancha
       internalID: 0
       firstFrame: 0
-      lastFrame: 180
+      lastFrame: 150
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
